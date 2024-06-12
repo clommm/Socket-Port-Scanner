@@ -27,7 +27,7 @@ cd (directory)
 
 3. Run the script:
 
-python3 socket_port_scanner.py
+python3 socket_port_scanner.py (if this doesnt work, use: python3 socket_port_scanner.py instead)
 
 4. Follow the on-screen instructions to input the IP address and port range to scan.
 
