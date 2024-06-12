@@ -27,5 +27,14 @@ python3 socket_port_scanner.py
 
 4. Follow the on-screen instructions to input the IP address and port range to scan.
 
+## Requirements
+
+- Python 3.x
+- Python pyfiglet
+
+Install the required Python packages using pip:
+
+pip install pyfiglet
+
 
 
